@@ -1,0 +1,42 @@
+.Filter{
+    width: 90%;
+    background: var(--app-color-main);
+    font-family:  var(--font-italic-regular) ;
+    color: var(--app-background);
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px auto;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.Form{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Input{
+    width: 340px;
+    margin: 20px;
+}
+.ButtonContainer{
+    margin: 0 auto;
+    width: 340px;
+
+}
+.Button{
+    margin: 0 auto;
+    display: list-item;
+}
+@media screen and (max-width: 885px) {
+    .Input{
+        width: 100%;
+        margin: 20px;
+}
+    .Filter{
+        justify-content: center;
+    }
+    .Form{
+        width: 80%;
+    }
+}

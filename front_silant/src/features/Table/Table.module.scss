@@ -1,0 +1,20 @@
+.TableSearch{
+    margin: 50px auto;
+    width: 95%;
+    background: var(--app-color-main);
+    font-family:  var(--font-italic-regular) ;
+    color: var(--app-background);
+    border-radius: 5px;
+    padding: 10px;
+}
+.ContainerButton{
+    display: flex;
+}
+.Button{
+    width: 155px;
+    margin: 10px auto;
+}
+.Header{
+    text-align: center;
+    margin: 10px;
+}

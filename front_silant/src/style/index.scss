@@ -1,0 +1,26 @@
+@import "fonts";
+
+
+:root{
+    --app-background:  #EBE6D6;
+    --app-color-button: #D20A11;
+    --app-color-main:  #163E6C;
+
+
+
+    --font-bold: "Astra-Sans_Bold";
+    --font-bold-italic: "Astra-Sans_Bold-Italic";
+    --font-italic: "Astra-Sans_Italic";
+    --font-italic-regular: "Astra-Sans_Regular";
+
+
+
+}
+Button{
+    background: var(--app-color-button) !important;
+    border-color: var(--app-color-button) !important;
+    color: var(--app-background) !important;
+}
+.navbar-default {
+  background-color: blue;
+}

@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'Astra-Sans_Bold';
+	src: url('fonts/PT-Astra-Sans_Bold.ttf');
+	src: local('Astra-Sans_Bold'), local('Astra-Sans_Bold'),
+		url('fonts/PT-Astra-Sans_Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Astra-Sans_Bold-Italic';
+	src: url('fonts/PT-Astra-Sans_Bold-Italic.ttf');
+	src: local('Astra-Sans_Bold-Italic'), local('Astra-Sans_Bold-Italic'),
+		url('fonts/PT-Astra-Sans_Bold-Italic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Astra-Sans_Italic';
+	src: url('fonts/PT-Astra-Sans_Italic.ttf');
+	src: local('Astra-Sans_Italic'), local('Astra-Sans_Italic'),
+		url('fonts/PT-Astra-Sans_Italic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Astra-Sans_Regular';
+	src: url('fonts/PT-Astra-Sans_Regular.ttf');
+	src: local('Astra-Sans_Regular'), local('Astra-Sans_Regular'),
+		url('fonts/PT-Astra-Sans_Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
